@@ -1,0 +1,32 @@
+[
+    {
+        "reviewer":"Tommy Dang",
+        "country":"USA",
+        "image":"assets/images/tommy-dang.jpg",
+        "review":"His work is amazing, he is able to fix some coding and change the template to a newer look, where other designers said that it is limited due to the web hosting. I would definitely work with him again."
+    },
+    {
+        "reviewer":"Haiyang Zhang",
+        "country":"China",
+        "image":"assets/images/haiyang-zhang.jpg",
+        "review":"The project regarding www.youziyue.com with Mahadi is in general very successful. The communication was smooth and always in time. Mahadi is not only a good coder, but also good with design. He is able to handle simple information display sites and sites with complex functions as well. I highly recommend him for future projects."
+    },
+    {
+        "reviewer":"Sajith Gunawardena",
+        "country":"Canada",
+        "image":"assets/images/sajith.jpg",
+        "review":"It is always a pleasure to deal with Mahadi. He always delivers on time and always exceeds expectations with quality of work. Will look forward to working with you again."
+    },
+    {
+        "reviewer":"Chris Navarrete",
+        "country":"Mexico",
+        "image":"assets/images/chris-navarrete.jpg",
+        "review":"Mahadi's work is exceptional he is one of the best if not the best designer in freelancer. He is fast and very professional when it comes to getting the work done, if you are looking for a person for any kind of design this guy is your man, great work keep it up!"
+    },
+    {
+        "reviewer":"Juan Cristobal Andrews",
+        "country":"Chile",
+        "image":"assets/images/juan-cristobal-andrews.jpg",
+        "review":"One of the most responsible, hard working, creative and talented people I know in the field. He will be in touch with you and will not disappoint you in any way, shape or form. Also, as if this weren't enough, he has the added value of being one of the nicest people out there!. He will not disappoint you, very very reliable. Will work with him again. Recommended, take my word for it. A+++"
+    }
+]

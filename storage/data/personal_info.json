@@ -1,0 +1,26 @@
+{
+    "name":{
+        "firstname":"Mahadi",
+        "lastname":"Hasan"
+    },
+    "intro": "Hi! I am a <span class=\"hlight\">Web Developer</span> and <span class=\"hlight\">UI/UX Designer</span> from Bangladesh. I am insanely passionate about designing beautiful, intuitive and functional websites.",
+    "role":"Web Developer, Web Designer, Wordpress Developer, UI/UX Developer, Mobile UX/UI Designer, Passionate Photographer",
+    "expertise": ["UI/UX Designing", "Web Development", "eCommerce Solutions", "Brand & Corportate Identity"],
+    "contact":{
+        "email":"mahadi2020dev@gmail.com",
+        "phone":"+8801712-987654",
+        "whatsapp": "+8801712-987654"
+        },
+    "social":{
+        "linkedin":"https://www.linkedin.com/in/mhasan-dev/",
+        "facebook":"https://www.facebook.com/mahadi.hasan.923171",
+        "stackoverflow":"https://stackoverflow.com/users/mahadi",
+        "dribbble":"https://dribbble.com/mahadi",
+        "twitter":"https://www.twitter.com/mahadi",
+        "googleplus":"https://plus.google.com/+mahadi",
+        "pinterest":"https://www.pinterest.com/",
+        "instagram":"http://instagram.com/",
+        "500px":"https://500px.com/"
+
+    }
+}

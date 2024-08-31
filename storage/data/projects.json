@@ -1,0 +1,65 @@
+{
+    "1": {
+        "title": "Humanly",
+        "description": "Humanly is a user-centric platform designed for mental health and wellness. Leveraging Laravel and Vue.js for its backend and frontend, respectively, the project integrates MySQL for data management. The application features a responsive design, user-friendly interfaces, and real-time data processing to support mental health practitioners and their clients.",
+        "image": "assets/images/humanly-thumb.jpg",
+        "category": ["uidesign", "webdevelopment"],
+        "tech": ["Laravel", "Vue.js", "MySQL"]
+    },
+    "2": {
+        "title": "NZ Tiny Living",
+        "description": "NZ Tiny Living is a web application focused on showcasing innovative tiny house designs and solutions in New Zealand. Built with Laravel for the backend and React.js for the frontend, it utilizes MySQL for robust data management. The project emphasizes modern, sustainable living with an engaging user experience and interactive features.",
+        "image": "assets/images/nztinyliving-thumb.jpg",
+        "category": ["uidesign", "webdevelopment"],
+        "tech": ["Laravel", "React.js", "MySQL"]
+    },
+    "3": {
+        "title": "Tourism and Travel (TaT)",
+        "description": "Tourism and Travel (TaT) is an all-in-one travel management system designed to streamline travel bookings and itineraries. Developed with PHP and React.js, and styled with Tailwind CSS, the application also employs SQLite for lightweight, efficient data storage. The project features user-friendly interfaces, real-time booking updates, and comprehensive travel guides.",
+        "image": "assets/images/tatoffice-thumb.jpg",
+        "category": ["uidesign", "webdevelopment"],
+        "tech": ["PHP", "Tailwind CSS", "React.js", "SQLite"]
+    },
+    "4": {
+        "title": "8 Square Infotrans",
+        "description": "8 Square Infotrans is a web-based information management system tailored for logistics and transportation. Built with PHP and MySQL, the system provides robust features for tracking shipments, managing inventory, and generating detailed reports. The project ensures high performance and reliability for efficient logistics operations.",
+        "image": "assets/images/8squareinfotrans-thumb.jpg",
+        "category": ["webdevelopment"],
+        "tech": ["PHP", "MySQL"]
+    },
+    "5": {
+        "title": "Yard Magic",
+        "description": "Yard Magic is an innovative platform for lawn care and landscaping services. The web application, developed using Laravel and MySQL, includes features for scheduling services, managing customer accounts, and processing payments. Its responsive design ensures a seamless user experience across all devices.",
+        "image": "assets/images/yardmagic-thumb.jpg",
+        "category": ["webdevelopment"],
+        "tech": ["Laravel", "MySQL"]
+    },
+    "6": {
+        "title": "ASNEngr",
+        "description": "ASNEngr is a comprehensive engineering solutions website designed for a leading engineering consultancy. Using Laravel for the backend and Bootstrap 5 for responsive front-end design, combined with MySQL for data management, the site features detailed service descriptions, client testimonials, and a project portfolio.",
+        "image": "assets/images/asnengr-thumb.jpg",
+        "category": ["uidesign", "webdevelopment"],
+        "tech": ["Laravel", "Bootstrap 5", "MySQL"]
+    },
+    "7": {
+        "title": "Zurich Insurance",
+        "description": "Zurich Insurance offers a streamlined online platform for managing insurance policies and claims. Developed with PHP and MySQL, and utilizing Bootstrap for responsive design, the application includes features for policy management, claim tracking, and customer support, ensuring a user-friendly experience.",
+        "image": "assets/images/zurich-insurancegroup-thumb.jpg",
+        "category": ["uidesign", "webdevelopment"],
+        "tech": ["PHP", "Bootstrap", "MySQL"]
+    },
+    "8": {
+        "title": "FaceOff APP",
+        "description": "FaceOff APP is a mobile application developed for facial recognition and security purposes. Built with Ionic and SQLite, it provides features for secure user authentication, real-time facial recognition, and secure data storage. The app is designed to offer enhanced security and a seamless user experience on mobile devices.",
+        "image": "assets/images/faceoff-thumb.jpg",
+        "category": ["mobileapp"],
+        "tech": ["Ionic", "SQLite"]
+    },
+    "9": {
+        "title": "iReflect APP",
+        "description": "iReflect APP is a mobile application designed for self-reflection and personal growth. Using Flutter and Firebase, the app allows users to track their personal goals, reflect on their progress, and engage with a supportive community. It features a modern interface, real-time data synchronization, and robust performance.",
+        "image": "assets/images/ireflect-thumb.jpg",
+        "category": ["mobileapp"],
+        "tech": ["Flutter", "Firebase"]
+    }
+}
