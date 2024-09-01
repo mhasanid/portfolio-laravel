@@ -19,9 +19,7 @@ To install the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/mhasanid/portfolio-laravel.git`
 2. Install dependencies: `composer install`
-3. Configure the environment: `cp .env.example .env`
-4. Run migrations: `php artisan migrate`
-5. Start the server: `php artisan serve`
+3. Start the server: `php artisan serve`
 
 ## Features
 ------------
